@@ -48,3 +48,13 @@ Contributions are welcome! Feel free to submit issues or pull requests to help i
 For any inquiries or suggestions, please feel free to contact [ksampurn@gmail.com](mailto:ksampurn@gmail.com).
 
 Enjoy playing and training your Snake AI with reinforcement learning! 🐍🎮
+## Screenshots
+
+### Overall System
+![Overall System](overall.png)
+
+### Game Screenshot
+![Game Screenshot](game.png)
+
+### Performance
+![Performance](performance.png)
